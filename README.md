@@ -1,4 +1,4 @@
-# 📊 Matplotlib Roadmap: 2-Day Beginner to Master Python Data Visualization Source Code
+# 📊 Matplotlib : 2-Day Beginner to Master Python Data Visualization Source Code
 
 ## 🚀 About This Project  
 This repository is your **one-stop guide to mastering Matplotlib in just 2 days**.  
